@@ -39,3 +39,7 @@ Realizar un Script para cada uno de los siguientes problemas.
 en el directorio que indiquemos.  
 6. Escriba un script que nos identifique qué archivos pueden ser un script.
 7. Emular el comando wc mediante un script.
+
+
+
+* Fecha de entrega **7 de Junio del 2016**
